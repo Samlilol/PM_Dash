@@ -26,13 +26,18 @@ In reality, junior PMs are thrown into execution work (PRDs, tickets, meetings) 
 
 The 3 Real Challenges Junior PMs Face (In Reality)
 1. Strategic Blindness
+
 Most junior PMs become feature factories. They execute tasks without understanding why the work matters, which metric it moves, or how it fits into a long-term roadmap. Over time, they lose decision authority and become delivery coordinators.
+
 2. Technical & Data Illiteracy
+
 Without a working grasp of system constraints, AI logic, or funnel data (AARRR), junior PMs create unrealistic requirements and miss growth opportunities. This creates a translation gap between business, tech, and data teams.
+
 3. Surface-Level Insight & Poor Alignment
+
 Junior PMs often rely on pseudo-needs (“users said…”) instead of real behavioral evidence. Combined with weak stakeholder management, this leads to products nobody truly wants and teams that don’t trust PM decisions.
 
-This agent exists to be the missing Senior PM in the room — the one who has already made the mistakes, paid the price, and learned what actually works at scale.
+Therefore, this agent exists to be the missing Senior PM in the room — the one who has already made the mistakes, paid the price, and learned what actually works at scale.
 
 Built from the mindset of a Senior PM with 10+ years at Amazon and Taobao, this agent is designed to be the first stop for any product question, before asking managers, engineers, or stakeholders.
 
