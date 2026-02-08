@@ -1,4 +1,3 @@
-# PMetrics-2.0
 ## Background
 Everything starts from my own experience, as a junior product manager working on a 0 to 1 product in a medium-sized company, I was lucky that I got one senior and one mentor to help me to catch up with the fast pace product management and developement Environment. Without the help of them, it is hard to understand the essences of product management, included but not limited to product mindset, prioritization, stakeholder management. 
 
