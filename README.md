@@ -1,10 +1,8 @@
 # PMetrics-2.0
 ## Background
-Everything starts from my own experience, as a junior product manager who knew nothing about product management, but tried to "lead" a new product from 0 to 1 in a medium-sized company. 
+Everything starts from my own experience, as a junior product manager working on a 0 to 1 product in a medium-sized company, I was lucky that I got one senior and one mentor to help me to catch up with the fast pace product management and developement Environment. Without the help of them, it is hard to understand the essences of product management, included but not limited to product mindset, prioritization, stakeholder management. 
 
-The result was disastrous, and project was suspended due to the shift of company priority. I wish I could know more before taking lead, and hence the project might keep going.
-
-Anyway, I can only control what I can control, so I decide to build a open source community to gather people who love products, no matter you are a junior, builder, pm, engineer, designer. As long as you are in love with product, please feel free to join and help to enlarge the product community. 
+Therefore I decide to build a open source community to gather people who love products, no matter you are a junior, builder, pm, engineer, designer. As long as you are in love with product, please feel free to join and help to enlarge the product community. 
 
 ## Goal
 This repo aims to 
